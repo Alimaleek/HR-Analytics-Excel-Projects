@@ -36,4 +36,6 @@ The dashboard helps HR teams understand workforce trends, employee performance, 
 
 ## Dashboard Preview 2
 ![HR Dashboard](Dashboard%20HR%20ANALYTICS%202.png)
+<img src="Dashboard%20HR%20ANALYTICS%202.png" width="600">
+
 
