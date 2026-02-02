@@ -31,6 +31,9 @@ The dashboard helps HR teams understand workforce trends, employee performance, 
 - How to build dashboards using Pivot Tables
 - How to turn raw data into meaningful insights
 
-## Dashboard Preview
+## Dashboard Preview 1
 ![HR Dashboard](HR%20Analytics%20Dashboard%201.jpg)
+
+## Dashboard Preview 2
+![HR Dashboard](Dashboard%20HR%20ANALYTICS%202.png)
 
